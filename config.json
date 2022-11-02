@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection": "mongodb+srv://minticgrupo18:12345@cluster0.gbm8riq.mongodb.net/bd-registro-academico?retryWrites=true&w=majority",
+  "name-db": "db-bken-seguridad"
+}
